@@ -1,0 +1,6 @@
+routes:
+  - path: "/*"
+    methods:
+      - GET
+    static:
+      path: /dist/index.html
